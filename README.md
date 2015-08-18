@@ -2,7 +2,7 @@
 
 This slide deck can be customized to give an introductory talk about Firebase. It is powered by [reveal.js](http://lab.hakim.se/reveal-js), a wonderful and powerful framework for creating HTML presentations.
 
-### [Boilerplate Site - https://intro-to-firebase.firebaseapp.com/](https://intro-to-firebase.firebaseapp.com/)
+### [Boilerplate Site - https://intro-to-firebase-ny.firebaseapp.com/](https://intro-to-firebase-ny.firebaseapp.com/)
 
 ## Presentations
 
